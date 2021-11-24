@@ -18,10 +18,11 @@ input{
     border: 0px solid;
     margin: 5px;
     height: 35px;
-    width: 250px;
+    width: 100%;
     font-size: 25px;
     border: none;
     text-align: right;
+    border-bottom: 1px solid;
 }
 
 .cal{
